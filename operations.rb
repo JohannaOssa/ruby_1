@@ -16,6 +16,6 @@ class Operations
   end
 
   def self.concatenar(let1, let2)
-    "#{let1}  #{let2}!"
+    "#{let1} #{let2}!"
   end
 end
